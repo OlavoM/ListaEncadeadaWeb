@@ -1,4 +1,4 @@
-#Autor: Olavo Marini
+#Autor: Olavo M
 
 from flask import Flask, render_template, request, redirect 
 #import somente do necessario para a interface web
